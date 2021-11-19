@@ -1,0 +1,38 @@
+body
+{
+  color: blue;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 40px;
+}
+#webcam , #snapshot_div
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emoji_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.Emoji-header
+{
+  font-size: 20px;
+  letter-spacing: 10px;
+  border-radius: 10px;
+}
+label{
+  color: rgb(106, 173, 6);
+  font-size: 18px;
+  border-radius: 8px;
+}
